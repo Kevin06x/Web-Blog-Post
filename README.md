@@ -7,3 +7,7 @@ This is a practice!!
 Hello World
 
 I really love Computer Science!
+
+## Local Development
+
+1. Open index.html in your browser
