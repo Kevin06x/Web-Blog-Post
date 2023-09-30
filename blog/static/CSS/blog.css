@@ -1,0 +1,52 @@
+header{
+    background-color:burlywood;
+    margin-top: 0px;
+    margin-bottom: 60px;
+    padding: 20px 20px 20px 40px;
+    font-family:fantasy;
+}
+
+body{
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Title{
+    color:black;
+    font-style:oblique;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+.PostTitle{
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:underline;
+}
+
+.Paragraph{
+    font-family:monospace;
+    padding-bottom: 15px;
+}
+
+.Time{
+    font-family: monospace;
+    padding-bottom: 5px;
+    
+}
+
+.Time, .PostTitle, .Paragraph{
+    padding-left: 15px;
+}
+
+.cat{
+    position:absolute;
+    top:0px;
+    right:0px;
+    width: 10.5%;
+    height:auto;
+    float: right;
+    mix-blend-mode: color-burn;
+}
