@@ -4,7 +4,8 @@ header{
     margin-bottom: 60px;
     padding: 20px 20px 20px 40px;
     font-family:fantasy;
-    border-style: solid;
+    border-top-style: solid;
+    border-bottom-style: solid;
 }
 
 body{
