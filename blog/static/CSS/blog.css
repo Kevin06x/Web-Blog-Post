@@ -15,6 +15,9 @@ body{
     background-color:bisque;
 }
 
+a{
+    text-decoration: none;
+}
 
 .Title{
     color:black;
@@ -64,6 +67,7 @@ body{
     min-width: 100px;
     min-height: 30px;
     text-align: center;
+    display: inline-block;
 }
 
 .git:hover, .linkedin:hover{
