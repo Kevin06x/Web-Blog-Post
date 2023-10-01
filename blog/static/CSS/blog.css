@@ -56,10 +56,16 @@ body{
 }
 
 .git{
-    outline: none;
-    width: 50px;
-    height: 30px;
-    right: 15px;
-    top: 15px;
+    border-radius: 10px;
+    background-color: burlywood;
+    border-color: black;
+    display: flex;
+    color: black;
+    min-width: 100px;
+    min-height: 30px;
+}
 
+.git:hover{
+    background-color: bisque;
+    transition: 0.5s;
 }
