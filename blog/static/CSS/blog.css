@@ -56,7 +56,10 @@ body{
 }
 
 .git{
-    width:25px;
-    height: 15px;
+    outline: none;
+    width: 50px;
+    height: 30px;
+    right: 15px;
+    top: 15px;
 
 }
