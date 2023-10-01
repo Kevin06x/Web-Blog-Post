@@ -55,17 +55,18 @@ body{
     mix-blend-mode: color-burn;
 }
 
-.git{
+.git, .linkedin{
     border-radius: 10px;
-    background-color: burlywood;
+    background-color: bisque;
     border-color: black;
     display: flex;
     color: black;
     min-width: 100px;
     min-height: 30px;
+    text-align: center;
 }
 
-.git:hover{
-    background-color: bisque;
+.git:hover, .linkedin:hover{
+    background-color:aliceblue;
     transition: 0.5s;
 }
