@@ -1,3 +1,3 @@
 # Web-Blog-Post
 
-This is a Django project to create a Web Blog Post online
+This is a Web-based project to post about my thoughts and accomplishments throughout the years!!
