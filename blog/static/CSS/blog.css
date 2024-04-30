@@ -1,5 +1,5 @@
 header{
-    background-color:blanchedalmond;
+    background-color:azure;
     margin-top: 0px;
     margin-bottom: 60px;
     padding: 20px 20px 20px 40px;
@@ -12,7 +12,7 @@ body{
     margin: auto;
     width: 100vw;
     height: 100vh;
-    background-color:bisque;
+    background-color:rgb(241, 252, 252);
 }
 
 a{
@@ -21,10 +21,10 @@ a{
 
 .Title{
     color:black;
-    font-style:oblique;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 40px;
+    font-weight: bolder;
 }
 
 .PostTitle{
@@ -60,7 +60,7 @@ a{
 
 .git, .linkedin{
     border-radius: 10px;
-    background-color: bisque;
+    background-color: aliceblue;
     border-color: black;
     display: flex;
     color: black;
@@ -72,6 +72,6 @@ a{
 }
 
 .git:hover, .linkedin:hover{
-    background-color:aliceblue;
+    background-color:cornflowerblue;
     transition: 0.5s;
 }
